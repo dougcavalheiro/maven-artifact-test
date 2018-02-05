@@ -5,4 +5,5 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>simple-artifact</name>
   <description>this is a simple artifact</description>
+  <packaging>pom</packaging>
 </project>
